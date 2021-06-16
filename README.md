@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @nkevin9-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me +254712715871
-
-<!---
-nkevin90/nkevin90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello fellow human
+My name is Kelvin Njenga
+I am a visionary creative who is passionate about technology and innovation
+  i`m currently working on an amazing machine learning project
+  I`m looking to collaborate on any project that uses python, java, Matlab, tensorflow or that involves unity game engine, AI, computer vision and ML.
+  
+  
+  <code><img height="20" src="https://www.linkedin.com/in/kelvin-njenga-94aaa4186/"></code>
