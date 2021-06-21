@@ -15,13 +15,13 @@ I also develop games and mixed reality applications using unity game engine and 
   </div>
 </div>
 
-- 🔭 **Currently working on an amazing machine learning project😉**
+- 🔭 **Currently working on an amazing android application and ML project😉**
 
-- 🌱 I’m currently learning **Machine learning and computer vision**
+- 🌱 I’m currently learning **Android development and cloud computing**
 
 - 👯 I’m looking to collaborate on **any project that uses python, java, Matlab, tensorflow or that involves unity game engine, AI, computer vision and ML.**
 
-- 🤝 I’m looking for help with **AI,ML and computer vision**
+- 🤝 I’m looking for help with **AI,ML, android development and computer vision**
 
 - 💬 Ask me about **about anything, I am happy to help**
 
