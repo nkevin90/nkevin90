@@ -6,7 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nkevin90" alt="nkevin90" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nkevin_90" target="blank"><img src="https://img.shields.io/twitter/follow/nkevin_90?logo=twitter&style=for-the-badge" alt="nkevin_90" /></a> </p>
-<p>**About me**: problem solving is the greatest paid for skill in every planet</p>
+<p> Problem solving is the greatest paid for skill in every planet</p>
+<p>**About me**:</p>
 <p>An inspiring and conscientious leader with a strong background in  team development and a solid reputation for assesing business needs, developing cost-saving solutions, increasing sales and driving customer satisfaction<br><br>
 I also develop games and mixed reality applications using unity game engine and vuforia </p>
 <div class="row">
