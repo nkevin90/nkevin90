@@ -24,7 +24,7 @@ I also develop games and mixed reality applications using unity game engine and 
 
 - 🤝 I’m looking for help with **AI,ML, and computer vision**
 
-- 💬 Ask me about **about anything, I am happy to help**
+- 💬 Ask me **about anything, I am happy to help**
 
 - 📫 How to reach me **nkevin89@outlook.com or +254 712 715 871**
 
