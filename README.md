@@ -1,3 +1,9 @@
+[Coursera 54K3DLAB9JXH.pdf](https://github.com/nkevin90/nkevin90/files/7802708/Coursera.54K3DLAB9JXH.pdf)
+[Coursera GDMP57ZTD2VG.pdf](https://github.com/nkevin90/nkevin90/files/7802709/Coursera.GDMP57ZTD2VG.pdf)
+[Coursera JPLY5EZR6ZPD.pdf](https://github.com/nkevin90/nkevin90/files/7802710/Coursera.JPLY5EZR6ZPD.pdf)
+[Coursera T9JYA4UMXFYG.pdf](https://github.com/nkevin90/nkevin90/files/7802711/Coursera.T9JYA4UMXFYG.pdf)
+[Coursera WTVFN9UW75MW.pdf](https://github.com/nkevin90/nkevin90/files/7802712/Coursera.WTVFN9UW75MW.pdf)
+[Coursera ZQ52S2AJAVC4.pdf](https://github.com/nkevin90/nkevin90/files/7802713/Coursera.ZQ52S2AJAVC4.pdf)
 <h1 align="center">Hi 👋, I'm Kelvin Njenga</h1>
 <h3 align="center">A visionary creative who is passionate about technology and innovation</h3>
 
