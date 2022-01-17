@@ -33,7 +33,7 @@ I also develop games and mixed reality applications using unity game engine and 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nkevin_90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nkevin_90" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kelvin njenga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelvin njenga" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kelvin-njenga-94aaa4186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelvin njenga" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/kelvin njenga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kelvin njenga" height="30" width="40" /></a>
 <a href="https://kaggle.com/njengakelvin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="njengakelvin" height="30" width="40" /></a>
 <a href="https://instagram.com/_nkevin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nkevin" height="30" width="40" /></a>
