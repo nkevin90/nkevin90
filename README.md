@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kelvin Njenga</h1>
-<h3 align="center">A visionary creative who is passionate about technology and innovation</h3>
+<h3 align="center">A visionary creative who is passionate about developing solutions and leveraging on AI and Machine learning technologiies to improve business models/profits</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkevin90&label=Profile%20views&color=0e75b6&style=flat" alt="nkevin90" /> </p>
 
@@ -10,14 +10,14 @@
 <p> Problem solving is the greatest paid for skill in every planet</p>
 <p>**About me**:</p>
 <p>An inspiring and conscientious leader with a strong background in  team development and a solid reputation for assesing business needs, developing cost-saving solutions, increasing sales and driving customer satisfaction<br><br>
-I also develop games and mixed reality applications using unity game engine and vuforia </p>
+I also develop games and mixed reality applications using unity game engine and vuforia once in a while as a hobby </p>
 <div class="row">
   <div class="column">
     <img width="1000" height="500" src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif">
   </div>
 </div>
 
-- 🔭 **Currently working on an amazing AI and ML projects😉**
+- 🔭 **Currently working on AI/ML projects😉**
 
 - 🌱 I’m currently learning **data analytics and computer vision**
 
