@@ -19,11 +19,11 @@ I also develop games and mixed reality applications using unity game engine and 
 
 - 🔭 **Currently working on AI/ML projects😉**
 
-- 🌱 I’m currently learning **data analytics and computer vision**
+- 🌱 I’m currently learning **data Science and analytics**
 
 - 👯 I’m looking to collaborate on **any project that uses python, java, Matlab, tensorflow or that involves unity game engine, AI, computer vision and ML.**
 
-- 💬 Ask me **about anything, I am happy to help**
+- 💬 Ask me **anything,i`m happy to help**
 
 - 📫 How to reach me **nkevin89@outlook.com or +254 712 715 871**
 
