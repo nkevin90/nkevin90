@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kelvin Njenga</h1>
-<h3 align="center">Data Analytics | Data Engineer</h3>
+<h3 align="center">💫Data Analytics | Data Engineer</h3>
 
-# 💫About Me :
-🌱 I’m currently learning TensorFlow, Machine Learning and Data Science
-💬 Ask me about Automation, AI, Data Analytics
-📝 Once in a while I write articles on Medium
-📫 How to reach me nkevin89@outlook.com
-📄 Know about my experiences on LinkedIn
-⚡ Fun fact ketchup was once sold as medicine😂
+
+<ul>🌱 I’m currently learning TensorFlow, Machine Learning and Data Science</ul>
+<ul>💬 Ask me about Automation, AI, Data Analytics</ul>
+<ul>📝 Once in a while I write articles on Medium</ul>
+<ul>📫 How to reach me nkevin89@outlook.com</ul>
+<ul>📄 Know about my experiences on LinkedIn</ul>
+<ul>⚡ Fun fact ketchup was once sold as medicine😂</ul>
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
