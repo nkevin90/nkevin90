@@ -10,7 +10,7 @@
 <ul>⚡ Fun fact ketchup was once sold as medicine😂</ul>
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/> 
+<img src="https://random-memer.herokuapp.com/" width="900px"/> 
 
 
 ## 🌐Socials
