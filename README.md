@@ -1,9 +1,3 @@
-
-<h1 align="center">Hi 👋, I'm Kelvin Njenga</h1>
-<h3 align="center">A visionary creative who is passionate about developing solutions and leveraging on AI and Machine learning technologiies to improve business models/profits</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nkevin90&label=Profile%20views&color=0e75b6&style=flat" alt="nkevin90" /> </p>
-
 <h1 align="center">Hi 👋, I'm Kelvin Njenga</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkevin90&label=Profile%20views&color=0e75b6&style=flat" alt="nkevin90" /> </p>
 
