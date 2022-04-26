@@ -27,7 +27,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=nkevin90&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://devhumor.com/media/nothing-can-match-this-feeling)
 
 
 ---
