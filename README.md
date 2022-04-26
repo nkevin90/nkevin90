@@ -27,7 +27,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=nkevin90&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️Random Dev Quote
-![](https://devhumor.com/media/nothing-can-match-this-feeling)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
 ---
@@ -36,5 +36,7 @@
   ## 💰You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/_happi) 
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+  
+ 
   
