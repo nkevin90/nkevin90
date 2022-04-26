@@ -10,7 +10,7 @@
 <ul>⚡ Fun fact ketchup was once sold as medicine😂</ul>
 
 ### 😂Random Dev Meme
-<img src="https://devhumor.com/media/nothing-can-match-this-feeling"  height = "550x"/> 
+<img src="https://devhumor.com/content/uploads/images/February2021/100_tabs.jpg"  height = "550x"/> 
 
 
 ## 🌐Socials
