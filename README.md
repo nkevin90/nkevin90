@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kelvin Njenga</h1>
+<h1 align="center">Hi <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif">, I'm Kelvin Njenga</h1>
 <h3 align="center">💫Data Analytics | Data Engineer</h3>
 
 
