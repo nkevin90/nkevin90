@@ -1,7 +1,7 @@
-<h1 align="center"><img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif">Hi, I'm Kelvin Njenga</h1>
+<h1 align="center">Hi, I'm Kelvin Njenga</h1>
 <h3 align="center">💫Data Analytics | Data Engineer</h3>
 
-
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif">
 <ul>🌱 I’m currently learning TensorFlow, Machine Learning and Data Science</ul>
 <ul>💬 Ask me about Automation, AI, Data Analytics</ul>
 <ul>📝 Once in a while I write articles on Medium</ul>
