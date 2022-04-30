@@ -4,7 +4,6 @@
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif">
 <ul>🌱 I’m currently learning TensorFlow, Machine Learning and Data Science</ul>
 <ul>💬 Ask me about Automation, AI, Data Analytics</ul>
-<ul>📝 Once in a while I write articles on Medium</ul>
 <ul>📫 How to reach me nkevin89@outlook.com</ul>
 <ul>📄 Know about my experiences on LinkedIn</ul>
 <ul>⚡ Fun fact ketchup was once sold as medicine😂</ul>
