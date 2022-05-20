@@ -13,7 +13,7 @@
 </style>
 
 <div id="content">
-    <img src="src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" class="ribbon"/>
+    <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" class="ribbon"/>
     <div>some text...</div>
 </div>
 
