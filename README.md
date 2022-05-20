@@ -1,19 +1,9 @@
 <h1 align="center">Hi, I'm Kelvin Njenga</h1>
 <h3 align="center">💫Data Analytics | Data Engineer</h3>
 
-<style>
-    #content {
-        position: relative;
-    }
-    #content img {
-        position: absolute;
-        top: 0px;
-        right: 0px;
-    }
-</style>
 
 <div id="content">
-    <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" class="ribbon"/>
+    <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" position="relative" top=0px right=0px/>
     <div>some text...</div>
 </div>
 
