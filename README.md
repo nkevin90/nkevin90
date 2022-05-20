@@ -1,7 +1,23 @@
 <h1 align="center">Hi, I'm Kelvin Njenga</h1>
 <h3 align="center">💫Data Analytics | Data Engineer</h3>
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif">
+<style>
+    #content {
+        position: relative;
+    }
+    #content img {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+    }
+</style>
+
+<div id="content">
+    <img src="src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" class="ribbon"/>
+    <div>some text...</div>
+</div>
+
+
 <ul>🌱 I’m currently learning TensorFlow, Machine Learning and Data Science</ul>
 <ul>💬 Ask me about Automation, AI, Data Analytics</ul>
 <ul>📫 How to reach me nkevin89@outlook.com</ul>
