@@ -2,11 +2,12 @@
 <h3 align="center">💫Data Analytics | Data Engineer</h3>
 
 
-<div id="content">
-    <img position="absolute" top=0px left=0px src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" />
-    
-</div>
-
+<img  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" />
+img {
+   position: absolute;
+   top: 0px;
+   right: 0px;
+}
 
 <ul>🌱 I’m currently learning TensorFlow, Machine Learning and Data Science</ul>
 <ul>💬 Ask me about Automation, AI, Data Analytics</ul>
