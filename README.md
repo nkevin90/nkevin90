@@ -3,7 +3,7 @@
 
 
 <div id="content">
-    <img position="relative" top=0px right=0px src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" />
+    <img position="absolute" top=0px right=0px src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" />
     
 </div>
 
