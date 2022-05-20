@@ -3,8 +3,8 @@
 
 
 <div id="content">
-    <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" position="relative" top=0px right=0px/>
-    <div>some text...</div>
+    <img position="relative" top=0px right=0px src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" />
+    
 </div>
 
 
