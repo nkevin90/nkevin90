@@ -2,7 +2,7 @@
 <h3 align="center">💫Data Analytics | Data Engineer</h3>
 
 
-<img position='absolute' src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" />
+<a href="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" />
 
 
 <ul>🌱 I’m currently learning TensorFlow, Machine Learning and Data Science</ul>
