@@ -2,7 +2,7 @@
 <h3 align="center">💫Data Analytics | Data Engineer</h3>
 
 
-<img src="https://media.giphy.com/media/UPqYp2tj61XlBhlPbH/giphy.gif"/>
+<iframe src="https://giphy.com/embed/5ntdy5Ban1dIY" width="480" height="463" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-5ntdy5Ban1dIY">via GIPHY</a></p>
 
 
 <ul>🌱 I’m currently learning TensorFlow, Machine Learning and Data Science</ul>
