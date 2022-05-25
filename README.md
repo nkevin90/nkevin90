@@ -2,7 +2,7 @@
 <h3 align="center">💫Data Analytics | Data Engineer</h3>
 
 
-
+<img src="https://media.giphy.com/media/UPqYp2tj61XlBhlPbH/giphy.gif" loop=infinite/>
 
 <ul>🌱 I’m currently learning TensorFlow, Machine Learning and Data Science</ul>
 <ul>💬 Ask me about Automation, AI, Data Analytics</ul>
