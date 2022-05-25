@@ -4,6 +4,7 @@
 
 <img src="https://media.giphy.com/media/UPqYp2tj61XlBhlPbH/giphy.gif" loop=infinite/>
 
+
 <ul>🌱 I’m currently learning TensorFlow, Machine Learning and Data Science</ul>
 <ul>💬 Ask me about Automation, AI, Data Analytics</ul>
 <ul>📫 How to reach me nkevin89@outlook.com</ul>
