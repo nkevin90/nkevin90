@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Kelvin Njenga</h1>
-<h3 align="center">💫Data Science and Analytics | Machine Learning Engineer</h3>
+<h3 align="center">💫Data Science
+ | Machine Learning Engineer</h3>
 
 
 <img src="https://media.giphy.com/media/UPqYp2tj61XlBhlPbH/giphy.gif" loop=infinite/>
