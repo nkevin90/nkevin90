@@ -10,7 +10,7 @@
 <ul>💬 Ask me about Automation, AI, Data Analytics</ul>
 <ul>📫 How to reach me nkevin89@outlook.com</ul>
 <ul>📄 Know about my experiences on LinkedIn</ul>
-<ul>⚡ Fun fact ketchup was once sold as medicine😂</ul>
+<ul>⚡ Data Science motto: If at first you dont succeed ; call it version 1.0😂</ul>
 
 
 
