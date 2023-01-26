@@ -1,12 +1,15 @@
-<h1 align="center">Hi, I'm Kelvin Njenga</h1>
-<h3 align="center">💫Data Science
- | Machine Learning Engineer | FMVA</h3>
+<h1 align="center">💫Data Science
+ | Machine Learning Engineer | FMVA</h1>
 
 <div align="left">
  
 <img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif"  height = "250" loop=infinite/>
  <img src="https://media.giphy.com/media/wlc1wQBDp9NsjyyTuu/giphy.gif"  height = "250" loop=infinite/>
  </div>
+ 
+ <p>About me: Astute Data Scientist 
+with data-driven and technology-focused approach. Communicates clearly with stakeholders and builds consensus around well-founded models.
+Talks about #ai4good, #datascience, #machinelearning, #pythonautomation, and #businessanalytics</p>
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [nkevin89@outlook.com](mailto:nkevin89@outlook.com)
