@@ -1,10 +1,9 @@
 <h1 align="center">💫Data Science
  | Machine Learning Engineer | FMVA</h1>
 
-<div align="left">
+<div align="center">
  
-<img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif"  height = "250" loop=infinite/>
- <img src="https://media.giphy.com/media/wlc1wQBDp9NsjyyTuu/giphy.gif"  height = "250" loop=infinite/>
+<img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif"  loop=infinite/>
  </div>
  
  <p>About me: Astute Data Scientist 
