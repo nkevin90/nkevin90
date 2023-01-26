@@ -5,7 +5,7 @@
 <div align="left">
  
 <img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif"  height = "305" loop=infinite/>
- <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" height = "305" loop=infinite/>
+ <img src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif" height = "305" loop=infinite/>
  </div>
 
 * 🌍  I'm based in Nairobi, Kenya
