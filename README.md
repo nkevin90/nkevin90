@@ -4,8 +4,8 @@
 
 <div align="left">
  
-<img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif"  height = "305" loop=infinite/>
- <img src="https://media.giphy.com/media/K7StRcr7hagJpXROmb/giphy.gif" height = "305" loop=infinite/ style="float:right">
+<img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif"  height = "250" loop=infinite/>
+ <img src="https://media.giphy.com/media/K7StRcr7hagJpXROmb/giphy.gif" height = "250" loop=infinite/ style="float:right">
  </div>
 
 * 🌍  I'm based in Nairobi, Kenya
