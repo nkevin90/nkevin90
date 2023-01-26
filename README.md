@@ -2,10 +2,10 @@
 <h3 align="center">💫Data Science
  | Machine Learning Engineer | FMVA</h3>
 
-<div align="center">
+<div align="left">
  
-
- <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" loop=infinite/>
+<img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif"  height = "305" loop=infinite/>
+ <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" height = "305" loop=infinite/>
  </div>
 
 * 🌍  I'm based in Nairobi, Kenya
