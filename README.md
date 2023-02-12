@@ -4,6 +4,7 @@
 <div align="center">
  
 <img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif"  loop=infinite/>
+ <img src="https://media.giphy.com/media/e7C2wQpE2UwvqZCdzh/giphy.gif"  loop=infinite/>
  </div>
  
  <p>About me: Astute Data Scientist 
