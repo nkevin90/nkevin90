@@ -1,10 +1,10 @@
 <h1 align="center">💫Data Science
  | Machine Learning Engineer | FMVA</h1>
 
-<div align="left">
+<div align="center">
  
-<img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif"  loop=infinite/>
- <img src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif"  loop=infinite, width="45%"/>
+<img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif"  loop=infinite, width = "46.5%"/>
+ <img src="https://media.giphy.com/media/143vPc6b08locw/giphy.gif"  loop=infinite , width = "35%"/>
  </div>
  
  <p>About me: Astute Data Scientist 
