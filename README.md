@@ -1,7 +1,7 @@
 <h1 align="center">💫Data Science
  | Machine Learning Engineer | FMVA</h1>
 
-<div align="center">
+<div align="left">
  
 <img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif"  loop=infinite/>
  <img src="https://media.giphy.com/media/e7C2wQpE2UwvqZCdzh/giphy.gif"  loop=infinite/>
