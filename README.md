@@ -12,7 +12,7 @@ with data-driven and technology-focused approach. Communicates clearly with stak
 Talks about #ai4good, #datascience, #machinelearning, #pythonautomation, and #businessanalytics</p>
 
 * 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [nkevin89@outlook.com](mailto:nkevin89@outlook.com)
+* ✉️  Email me at [nkevin89@outlook.com](mailto:nkevin89@outlook.com)
 * 🧠  I'm learning Data Science/ ML
 * 🤝  I'm open to collaborating on AI /ML projects
 * ⚡  Fun fact : I use tabs over spaces
