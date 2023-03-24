@@ -6,17 +6,17 @@
 <img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif"  loop=infinite, width = "46.5%"/>
  <img src="https://media.giphy.com/media/143vPc6b08locw/giphy.gif"  loop=infinite , width = "35%"/>
  </div>
- 
- <p>About me: Astute Data Scientist 
+ <h2 align = 'left' >About me:</h2>
+ <p> Astute Data Scientist 
 with data-driven and technology-focused approach. Communicates clearly with stakeholders and builds consensus around well-founded models.
 Talks about #ai4good, #datascience, #machinelearning, #pythonautomation, and #businessanalytics</p>
 
-* 🌍  I'm based in Nairobi, Kenya
-* ✉️  Email me at [nkevin89@outlook.com](mailto:nkevin89@outlook.com)
-* 🧠  I'm learning Data Science/ ML
-* 🤝  I'm open to collaborating on AI /ML projects
-* ⚡  Fun fact : I use tabs over spaces
-
+* 📍 Nairobi, Kenya is where I'm located.
+* 📧 Contact me via nkevin89@outlook.com.
+* 🧠 Currently learning Data Science/ML.
+* 🤝 Open to collaborating on AI/ML projects.
+* ⚡ Fun fact: I prefer using tabs over spaces.
+* 🌐 Check out my socials for some amazing and eye-catching content.
 
 ###
 <h2 align="left">🌐Socials</h2>
