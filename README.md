@@ -1,5 +1,5 @@
 <h1 align="center">💫Data Science
- | Machine Learning Engineer | FMVA</h1>
+ | Machine Learning | FMVA</h1>
 
 <div align="center">
  
