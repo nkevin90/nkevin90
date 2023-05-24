@@ -1,5 +1,5 @@
-<h1 align="center">Data Science
- | Machine Learning🛠️ | FMVA</h1>
+<h1 align="center">Data Scientist🦾
+ & Machine Learning Engineer🛠 </h1>
 
 <div align="center">
  
@@ -12,11 +12,11 @@ with data-driven and technology-focused approach. Communicates clearly with stak
 Talks about #ai4good, #datascience, #machinelearning, #pythonautomation, and #businessanalytics</p>
 
 * 📍 Nairobi, Kenya is where I'm located.
-* 📧 Contact me via nkevin89@outlook.com.
-* 🧠 Currently learning Data Science/ML.
+* 📧 Contact me via njengakelvin71@gmail.com.
+* 🧠 Currently learning Advanced ML algorithms and end-to-end deployment.
 * 🤝 Open to collaborating on AI/ML projects.
 * ⚡ Fun fact: I prefer using tabs over spaces.
-* 🌐 Check out my socials for some amazing and eye-catching content.
+
 
 ###
 <h2 align="left">🌐Socials</h2>
