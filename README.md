@@ -86,13 +86,6 @@ Talks about #ai4good, #datascience, #machinelearning, #pythonautomation, and #bu
     </a>
 </p>
 
-
-<h2 align="center">✍️Random Dev Quote</h2>
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="150" alt="languages graph"  />
-
-</div>
-
 </div>
 
 
