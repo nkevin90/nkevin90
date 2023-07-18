@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Kelvin+Njenga!;Motivated+Passionate+Fast-learner)](https://git.io/typing-svg)
+
 <h1 align="center">Data Scientist🦾
  & Machine Learning Engineer🛠 </h1>
 
@@ -12,8 +14,7 @@ with data-driven and technology-focused approach. Communicates clearly with stak
 Talks about #ai4good, #datascience, #machinelearning, #pythonautomation, and #businessanalytics</p>
 
 * 📍 Nairobi, Kenya is where I'm located.
-* 📧 Contact me via njengakelvin71@gmail.com.
-* 🧠 Currently learning Advanced ML algorithms and end-to-end deployment.
+* 🧠 Currently learning Advanced ML algorithms and end-to-end ML deployment(MLOPS).
 * 🤝 Open to collaborating on AI/ML projects.
 * ⚡ Fun fact: I prefer using tabs over spaces.
 
@@ -29,7 +30,7 @@ Talks about #ai4good, #datascience, #machinelearning, #pythonautomation, and #bu
  
 
  </div>
-<h2 align="left">💻Tech Stack</h2>
+<h2 align="left">💻Tech Stack & Tools</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
@@ -60,15 +61,30 @@ Talks about #ai4good, #datascience, #machinelearning, #pythonautomation, and #bu
 
 
 <h2 align="left">✨GitHub Stats</h2>
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=true&username=nkevin90" height="170" alt="stats graph"  />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkevin90&theme=city_light&hide_border=false" height="170"  alt="stats graph"  /> 
-</div>
- 
 
-<h2 align="left">🏆GitHub Trophies</h2>
-
-![](https://github-profile-trophy.vercel.app/?username=nkevin90&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+    <a href="https://github.com/nkevin90">
+        <img align="center"  
+        height="175px" 
+        src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nkevin90&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
+        height="192px" 
+        width="49.5%"/>
+    </a>
+    <a href="https://github.com/nkevin90">
+        <img align="center" 
+        height="175px"  
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nkevin90&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
+        height="192px" 
+        width="49.5%"/>
+    </a>
+    <br><br>
+    <img align="center" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nkevin90&theme=radical&border=7F3FBF&background=0D1117" alt="nkevin90"/>
+    <br><br>
+    <a href="https://github.com/nkevin90">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nkevin90&theme=radical" alt="nkevin90"/>
+    </a>
+</p>
 
 
 <h2 align="center">✍️Random Dev Quote</h2>
