@@ -1,13 +1,51 @@
+<h1 align="center">Data Science
+ | Machine Learning Engineer</h1>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Kelvin+Njenga!;Motivated+Passionate+Fast-learner)](https://git.io/typing-svg)
 
-<h1 align="center">Data Scientist🦾
- & Machine Learning Engineer🛠 </h1>
+
+<div>
+<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif"  loop=infinite"/>
+<img src="https://media.giphy.com/media/zbpxXhCD3gD7S5I4lR/giphy.gif"  loop=infinite"/>
+ </div>
+ <br><br>
 
 <div align="center">
+<p align="center"> 
+    <a href="https://www.credly.com/badges/4764714e-74e3-4aee-b438-555d75e37f04">
+        <img align="center" 
+        src="https://images.credly.com/size/680x680/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" 
+        alt="IBM" 
+        width="130"/>
+    </a>
+    <a href="https://www.credly.com/badges/bedb7110-22c9-4e84-af2b-0b883b520db7">
+        <img align="center" 
+        src="https://images.credly.com/size/680x680/images/983a66db-5853-4d8e-a9e9-03643cca9e89/IDN_Build_yourown_Chatbot-_Innovator_Award.png" 
+        alt="IBM" 
+        width="130"/>
+    </a>
+    <a href="https://www.credly.com/badges/c72cfb04-4c30-42af-9258-0a643763b364">
+        <img align="center" 
+        src="https://images.credly.com/size/680x680/images/09f644d1-eed2-4279-bc49-1e26cddc9d3d/Team_Essentials.png" 
+        alt="IBM"
+        width="140"/>
+    </a>
+    <a href="https://www.credly.com/badges/8dbe878a-4b08-4250-9f81-107984ce224c">
+        <img align="center" 
+        src="https://images.credly.com/size/340x340/images/cd4ce924-f369-4d57-b3d7-65b1497347c9/IDN_New_Collar_-_Artificial_Intel_V2.png" 
+        alt="IBM"
+        width="140"/>
+    </a>
+    
+   <a href="https://au.badgr.com/public/assertions/s_bJCp2URRGoCfTzv2NG_g">
+    <img align="center" 
+     src="https://api.au.badgr.io/public/assertions/s_bJCp2URRGoCfTzv2NG_g/image/size/340x340/" 
+     alt="HACK"
+        width="140"/>
+    </a>
+</p>
+</div>
  
-<img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif"  loop=infinite, width = "46.5%"/>
- <img src="https://media.giphy.com/media/143vPc6b08locw/giphy.gif"  loop=infinite , width = "35%"/>
- </div>
  <h2 align = 'left' >About me:</h2>
  <p> Astute Data Scientist 
 with data-driven and technology-focused approach. Communicates clearly with stakeholders and builds consensus around well-founded models.
