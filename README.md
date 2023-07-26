@@ -5,7 +5,7 @@
 
 
 <div>
-<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif"  loop=infinite"/>
+<img src="https://media.giphy.com/media/3o6vXUTnulnQ3zOXm0/giphy.gif"  loop=infinite" width="40%"/>
 <img src="https://media.giphy.com/media/zbpxXhCD3gD7S5I4lR/giphy.gif"  loop=infinite"/>
  </div>
  <br><br>
