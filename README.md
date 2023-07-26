@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Kelvin+Njenga!;Motivated+Passionate+Fast-learner)](https://git.io/typing-svg)
 
 
-<div>
+<div align= "center">
 <img src="https://media.giphy.com/media/3o6vXUTnulnQ3zOXm0/giphy.gif"  loop=infinite" width="40%"/>
 <img src="https://media.giphy.com/media/zbpxXhCD3gD7S5I4lR/giphy.gif"  loop=infinite" width = "48%"/>
  </div>
