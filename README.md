@@ -1,7 +1,7 @@
 <h1 align="center">Data Science
  | Machine Learning Engineer</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Kelvin+Njenga!;Motivated+Passionate+Fast-learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Kelvin+Njenga!;Curious+Analytical+Collaborative)](https://git.io/typing-svg)
 
 
 <div align= "center">
