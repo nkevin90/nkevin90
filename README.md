@@ -1,12 +1,12 @@
 <h1 align="center">Data Science
  | Machine Learning Engineer</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Kelvin+Njenga!;Curious+Analytical+Collaborative)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;Consistency+breeds+Credibility;Curious+Analytical+mindset)](https://git.io/typing-svg)
 
 
 <div align= "center">
 <img src="https://media.giphy.com/media/3o6vXUTnulnQ3zOXm0/giphy.gif"  loop=infinite" width="40%"/>
-<img src="https://media.giphy.com/media/zbpxXhCD3gD7S5I4lR/giphy.gif"  loop=infinite" width = "48%"/>
+<img src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif"  loop=infinite" width = "37%"/>
  </div>
  <br>
 
@@ -39,7 +39,7 @@
     
    <a href="https://au.badgr.com/public/assertions/s_bJCp2URRGoCfTzv2NG_g">
     <img align="center" 
-     src="https://api.au.badgr.io/public/assertions/s_bJCp2URRGoCfTzv2NG_g/image/size/340x340/" 
+     src="https://api.au.badgr.io/public/assertions/s_bJCp2URRGoCfTzv2NG_g/image" 
      alt="HACK"
         width="140"/>
     </a>
@@ -48,7 +48,7 @@
  
  <h2 align = 'left' >About me:</h2>
  <p> Astute Data Scientist 
-with data-driven and technology-focused approach. Communicates clearly with stakeholders and builds consensus around well-founded models.
+with data-driven and technology-focused approach. I Communicate clearly with stakeholders and build consensus around well-founded models.
 Talks about #ai4good, #datascience, #machinelearning, #pythonautomation, and #businessanalytics</p>
 
 * 📍 Nairobi, Kenya is where I'm located.
